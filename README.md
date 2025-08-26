@@ -20,6 +20,6 @@ A modern, responsive portfolio website showcasing my skills as a Software Develo
 [View Live Site](https://yourusername.github.io/alister-portfolio)
 
 ## 📞 Contact
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: alisterpriv@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/alisterdsilva)
+- GitHub: [Your GitHub](https://github.com/alisterpriv)
